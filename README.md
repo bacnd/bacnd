@@ -4,7 +4,7 @@
 <a href="https://bacnd.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bacnd&theme=default&show_icons=true&hide=['contribs','prs']" />
 </a>
-<a href="https://bacnd.github.io">
+<a href="https://bacnd.github.io" style="margin-top: 20px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacnd&layout=compact" />
 </a>
 
